@@ -1,2 +1,2 @@
-# Selena AI
+# Szelena AI
 > coming soon
