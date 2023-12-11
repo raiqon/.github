@@ -1,2 +1,2 @@
-# Szelena AI
+# Raiqon AI
 > coming soon
